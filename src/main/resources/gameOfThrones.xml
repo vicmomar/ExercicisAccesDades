@@ -1,0 +1,384 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<game_of_thrones>
+                            
+    
+    
+    
+    
+    
+    <familias>
+                                                        
+        
+        
+        
+        
+        
+        <familia nombre="Stark">
+                                                                                    
+            
+            
+            
+            
+            
+            <personaje id="1">
+                                                                                                                
+                
+                
+                
+                
+                
+                <nombre>Eddard Stark</nombre>
+                                                                                                                
+                
+                
+                
+                
+                
+                <titulo>Lord of Winter</titulo>
+                                                                                                                
+                
+                
+                
+                
+                
+                <relaciones>
+                                                                                                                                            
+                    
+                    
+                    
+                    
+                    
+                    <esposo>Catelyn Stark</esposo>
+                                                                                                                                            
+                    
+                    
+                    
+                    
+                    
+                    <hijos>
+                                                                                                                                                                        
+                        
+                        
+                        
+                        
+                        
+                        <hijo>Robb Stark</hijo>
+                                                                                                                                                                        
+                        
+                        
+                        
+                        
+                        
+                        <hija>Sansa Stark</hija>
+                                                                                                                                                                        
+                        
+                        
+                        
+                        
+                        
+                        <hijo>Bran Stark</hijo>
+                                                                                                                                                                        
+                        
+                        
+                        
+                        
+                        
+                        <hija>Arya Stark</hija>
+                                                                                                                                                                        
+                        
+                        
+                        
+                        
+                        
+                        <hijo>Rickon Stark</hijo>
+                                                                                                                                                                    
+                    
+                    
+                    
+                    
+                    
+                    </hijos>
+                                                                                                                                        
+                
+                
+                
+                
+                
+                </relaciones>
+                                                                                                            
+            
+            
+            
+            
+            
+            </personaje>
+                                                                                
+        
+        
+        
+        
+        
+        </familia>
+                                                    
+        
+        
+        
+        
+        
+        <familia nombre="Targaryen">
+                                                                        
+            
+            
+            
+            
+            <personaje id="2">
+                                                                                                
+                
+                
+                
+                
+                <nombre>Daenerys Targaryen</nombre>
+                                                                                                
+                
+                
+                
+                
+                <titulo>Mother of Dragons</titulo>
+                                                                                                
+                
+                
+                
+                
+                <relaciones>
+                                                                                                                        
+                    
+                    
+                    
+                    
+                    <hermano>Viserys Targarian</hermano>
+                                                                                                                        
+                    
+                    
+                    
+                    
+                    <esposo>Khal Drogo</esposo>
+                                                                                                                    
+                
+                
+                
+                
+                </relaciones>
+                                                                                            
+            
+            
+            
+            
+            </personaje>
+                                                                    
+        
+        
+        
+        
+        </familia>
+                                            
+        
+        
+        
+        
+        <familia nombre="Targaryen">
+                                                            
+            
+            
+            
+            <personaje id="2">
+                                                                                
+                
+                
+                
+                <nombre>Daenerys Targaryen</nombre>
+                                                                                
+                
+                
+                
+                <titulo>Mother of Dragons</titulo>
+                                                                                
+                
+                
+                
+                <relaciones>
+                                                                                                    
+                    
+                    
+                    
+                    <hermano>Jaime Lannister</hermano>
+                                                                                                    
+                    
+                    
+                    
+                    <hermana>Cercei Lannister</hermana>
+                                                                                                
+                
+                
+                
+                </relaciones>
+                                                                            
+            
+            
+            
+            </personaje>
+                                                        
+        
+        
+        
+        </familia>
+                                    
+        
+        
+        
+        <familia nombre="Lannister">
+                                                
+            
+            
+            <personaje id="2">
+                                                                
+                
+                
+                <nombre>Tyrion Lannister</nombre>
+                                                                
+                
+                
+                <titulo>Mother of Dragons</titulo>
+                                                                
+                
+                
+                <relaciones>
+                                                                                
+                    
+                    
+                    <padre>Khal Bharbo</padre>
+                                                                                
+                    
+                    
+                    <esposa>Daenerys Targarien</esposa>
+                                                                                
+                    
+                    
+                    <hijo>Rhaego</hijo>
+                                                                            
+                
+                
+                </relaciones>
+                                                            
+            
+            
+            </personaje>
+                                            
+        
+        
+        </familia>
+                            
+        
+        
+        <familia nombre="Lannister">
+                                    
+            
+            <personaje id="2">
+                                                
+                
+                <nombre>Tyrion Lannister</nombre>
+                                                
+                
+                <titulo>Mother of Dragons</titulo>
+                                                
+                
+                <relaciones>
+                                                            
+                    
+                    <hijos>
+                                                                        
+                        
+                        <hijo>Popo</hijo>
+                                                                    
+                    
+                    </hijos>
+                                                            
+                    
+                    <hijos>
+                                                                        
+                        
+                        <hijo>uio</hijo>
+                                                                    
+                    
+                    </hijos>
+                                                            
+                    
+                    <tio>lois</tio>
+                                                        
+                
+                </relaciones>
+                                            
+            
+            </personaje>
+                                
+        
+        </familia>
+                    
+        
+        <familia nombre="Lannister">
+                        
+            <personaje id="2">
+                                
+                <nombre>Tyrion Lannister</nombre>
+                                
+                <titulo>Mother of Dragons</titulo>
+                                
+                <relaciones>
+                                        
+                    <hijos>
+                                                
+                        <hijo>poi</hijo>
+                                                
+                        <hijo>kiu</hijo>
+                                            
+                    </hijos>
+                                        
+                    <tio>vgy</tio>
+                                    
+                </relaciones>
+                            
+            </personaje>
+                    
+        </familia>
+            
+        <familia nombre="Lannister">
+            <personaje id="2">
+                <nombre>Tyrion Lannister</nombre>
+                <titulo>Mother of Dragons</titulo>
+                <relaciones>
+                    <hijos>
+                        <hijo>tsrt</hijo>
+                        <hija>koij</hija>
+                        <hije>vsg</hije>
+                    </hijos>
+                </relaciones>
+            </personaje>
+        </familia>
+    </familias>
+                                
+    
+    
+    
+    
+    
+    
+    <territorios>
+
+    </territorios>
+                            
+
+
+
+
+
+
+</game_of_thrones>

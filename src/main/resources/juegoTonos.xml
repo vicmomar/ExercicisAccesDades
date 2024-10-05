@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<game_of_thrones>
+    <familias>
+        <familia nombre="Stark">
+            <personaje id="1">
+                <nombre>Eddard Stark</nombre>
+                <titulo>Lord of Winterfell</titulo>
+                <relaciones>
+                    <esposo>Catelyn Stark</esposo>
+                    <hijos>
+                        <hijo>Robb Stark</hijo>
+                        <hija>Sansa Stark</hija>
+                        <hijo>Bran Stark</hijo>
+                        <hija>Arya Stark</hija>
+                        <hijo>Rickon Stark</hijo>
+                    </hijos>
+                </relaciones>
+            </personaje>
+
+            <personaje id="3">
+                <nombre>Jon Snow</nombre>
+                <titulo>King in the North</titulo>
+                <relaciones>
+                    <padre>Rhaegar Targaryen</padre>
+                    <madre>Lyanna Stark</madre>
+                </relaciones>
+            </personaje>
+        </familia>
+
+        <familia nombre="Targaryen">
+            <personaje id="2">
+                <nombre>Daenerys Targaryen</nombre>
+                <titulo>Mother of Dragons</titulo>
+                <relaciones>
+                    <hermano>Viserys Targaryen</hermano>
+                    <esposo>Khal Drogo</esposo>
+                </relaciones>
+            </personaje>
+        </familia>
+
+        <familia nombre="Lannister">
+            <personaje id="4">
+                <nombre>Tyrion Lannister</nombre>
+                <titulo>Hand of the Queen</titulo>
+                <relaciones>
+                    <hermano>Jaime Lannister</hermano>
+                    <hermana>Cersei Lannister</hermana>
+                </relaciones>
+            </personaje>
+        </familia>
+    </familias>
+</game_of_thrones>
